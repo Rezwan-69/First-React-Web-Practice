@@ -1,8 +1,8 @@
 import React from 'react'
-import "./footer.css"
+import "./faw.css"
 import { Container,Row } from 'react-bootstrap'
 
-const Footer = () => {
+const Faw = () => {
   return (
     <div className="Footer">
   <Container>
@@ -13,4 +13,4 @@ const Footer = () => {
   )
 }
 
-export default Footer
+export default Faw

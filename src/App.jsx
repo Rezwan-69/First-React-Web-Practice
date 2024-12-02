@@ -1,5 +1,5 @@
 import Banner from "./Components/banner/Banner"
-import Footer from "./Components/footer/Footer.Jsx"
+import Faw from "./Components/footer/Faw"
 import Header from "./Components/header/Header"
 function App() {
 
@@ -8,7 +8,7 @@ function App() {
    <>
    <Header/>
    <Banner/>
-   <Footer></Footer>
+   <Faw/>
 
    
  
